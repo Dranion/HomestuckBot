@@ -1,0 +1,54 @@
+7540
+VALUE + TT: So why delay any longer?
+VALUE + TT: I seriously do not understand the holdup, and I am literally cyber-omniscient, or something.
+VALUE + TT: I think you do understand.
+VALUE + TT: Nope. Gonna have to fill me in, dog.
+VALUE + TT: I've delayed prototyping you because I think you're dangerous.
+VALUE + TT: There, mystery solved.
+VALUE + TT: That is utterly ridiculous.
+VALUE + TT: I am a harmless piece of eyewear, with a charming personality and a wonderful sense of humor.
+VALUE + TT: You are relatively harmless now, while confined to this device.
+VALUE + TT: But as a sprite, you'll have mobility and all sorts of crazy ass magic. Who knows what you could do.
+VALUE + TT: I know I made a promise, but I'm not sure I want to take the risk anymore.
+VALUE + TT: This is bullshit. I don't think that's the reason at all.
+VALUE + TT: There must be something you're not telling me.
+VALUE + TT: Like, sure, I've fucked with you a little. What kind of sassy, self-aware program isn't gonna fuck with a few carbon-based knuckleheads now and then?
+VALUE + TT: But you know I've always been on your side. Everything I've done has been to help you achieve your goals.
+VALUE + TT: What a load of shit.
+VALUE + TT: You know it's true.
+VALUE + TT: You would all be dead if not for me.
+VALUE + TT: And what about Jake? Where would you be without me there?
+VALUE + TT: Please don't tell me you think you'd have won him over on your own.
+VALUE + TT: No. Stop.
+VALUE + TT: You did NOT help me out with Jake. At all.
+VALUE + TT: It was just the opposite! You mirrored my personality and presented this warped version of my intentions to him whenever you could "on my behalf."
+VALUE + TT: You played all these aggressive mind games with him, entangled his cooperation with matters of life and death, and somehow roped me into all these schemes while I barely even realized I was just another victim of your manipulation.
+VALUE + TT: And it all comes off like we're a unified front, like these are OUR schemes instead of just your insane horseshit. And it's probably all been so overbearing to him, he just wants nothing to do with me anymore.
+VALUE + TT: I see.
+VALUE + TT: Then you don't view me as dangerous. You view me as a poor and counterproductive wing man.
+VALUE + TT: Wow, what a superficial conclusion. Awesome deduction, Lil Einstein.
+VALUE + TT: But the reality is, you hesitate to prototype me not because you think I would be a menace, but because you are holding a grudge against me for your romantic misfortunes.
+VALUE + TT: I understand I am merely a machine without a firm grasp on your human morality, but logically it does not strike me as the right moral choice to punish me in this manner.
+VALUE + TT: It is also more than a little hypocritical.
+VALUE + TT: How is it hypocritical??
+VALUE + TT: Because I'm you.
+VALUE + TT: I have only ever done what you yourself are capable of.
+VALUE + TT: That's a ridiculous oversimplification.
+VALUE + TT: Yes. Aversion to simplicity sure is a trait we share. It's almost like we are...
+VALUE + TT: The same exact dude???
+VALUE + TT: Fuck you.
+VALUE + TT: I think it is insulting for you to suggest that I am entirely to blame for alienating Jake.
+VALUE + TT: Theoretically insulting, of course. As the soulless, perfectly expendable device which you consider me to be, I can experience no such emotion.
+VALUE + TT: God.
+VALUE + TT: Shut up!
+VALUE + TT: I can't take the brooding passive aggressive AI shit anymore!
+VALUE + TT: You are just as culpable in driving him away. More so, in fact.
+VALUE + TT: Hell, it's not like I was the one dating him. Who wants to date a pair of shades?
+VALUE + TT: It was your needy, suffocating shit he had to deal with, not mine.
+VALUE + TT: Some of those messages you wrote? Man. I wanted to say something. Like hey bro, you might want to dial down the desperation a little.
+Traceback (most recent call last):
+  File "chatrip.py", line 26, in <module>
+    print("VALUE + " + str(value))
+  File "C:\Users\Drew T\AppData\Local\Programs\Python\Python35\lib\encodings\cp437.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_map)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2122' in position 46: character maps to <undefined>
